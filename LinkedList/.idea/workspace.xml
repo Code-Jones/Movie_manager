@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b17763e4-7d7d-4f84-b22c-4d9b79540e46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DarkyenusTimeTracker">
+    <option name="totalTimeSeconds" value="19945" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zomtz9jzx67EeDWLhRoNtQ04Wz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RunManager" selected="JUnit.tests in CPRG251A5Skeleton">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sait.sll.utility.Main" />
+      <module name="CPRG251A5Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sait.sll.utility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CPRG251A5Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LinkedListTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SerializationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CPRG251A5Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SerializationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SerializationTests.testDeserialize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CPRG251A5Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SerializationTests" />
+      <option name="METHOD_NAME" value="testDeserialize" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests in CPRG251A5Skeleton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CPRG251A5Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.tests in CPRG251A5Skeleton" />
+        <item itemvalue="JUnit.SerializationTests.testDeserialize" />
+        <item itemvalue="JUnit.SerializationTests" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.LinkedListTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b17763e4-7d7d-4f84-b22c-4d9b79540e46" name="Default Changelist" comment="" />
+      <created>1585514040671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585514040671</updated>
+      <workItem from="1585514056186" duration="46000" />
+      <workItem from="1585678766241" duration="1100000" />
+      <workItem from="1585679950635" duration="12000" />
+      <workItem from="1585680691487" duration="4000" />
+      <workItem from="1585681252020" duration="422000" />
+      <workItem from="1585682697384" duration="24577000" />
+      <workItem from="1585765296630" duration="699000" />
+      <workItem from="1585771193207" duration="51000" />
+      <workItem from="1585773090410" duration="1532000" />
+      <workItem from="1585779909523" duration="586000" />
+      <workItem from="1585780515036" duration="223000" />
+      <workItem from="1585781268152" duration="167000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="155" y="93" width="1288" height="678" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585687884189">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="155" y="93" width="1288" height="678" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/62.0.1474.864@62.0.1474.864" timestamp="1585687884189" />
+    <state x="193" y="225" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585713249145">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="193" y="225" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1474.864@62.0.1474.864" timestamp="1585713249145" />
+    <state x="792" y="432" width="750" height="438" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585678871231">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="792" y="432" width="750" height="438" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/62.0.1474.864@62.0.1474.864" timestamp="1585678871231" />
+    <state x="384" y="190" key="FileChooserDialogImpl" timestamp="1585682973341">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="384" y="190" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1585682973341" />
+    <state width="1431" height="146" key="GridCell.Tab.0.bottom" timestamp="1585771243289">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="146" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1585771243289" />
+    <state width="1431" height="146" key="GridCell.Tab.0.center" timestamp="1585771243289">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="146" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1585771243289" />
+    <state width="1431" height="146" key="GridCell.Tab.0.left" timestamp="1585771243289">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="146" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1585771243289" />
+    <state width="1431" height="146" key="GridCell.Tab.0.right" timestamp="1585771243289">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="146" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1585771243289" />
+    <state x="520" y="13" key="SettingsEditor" timestamp="1585709906989">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="520" y="13" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1585709906989" />
+    <state x="475" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1585781271141">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="475" y="256" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1585781271141" />
+    <state x="529" y="321" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585678990294">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="529" y="321" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/62.0.1474.864@62.0.1474.864" timestamp="1585678990294" />
+    <state x="792" y="-7" width="751" height="878" key="dock-window-1" timestamp="1585703488541">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="792" y="-7" width="751" height="878" key="dock-window-1/62.0.1474.864@62.0.1474.864" timestamp="1585703488541" />
+    <state x="462" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1585686370383">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="462" y="181" width="672" height="678" key="search.everywhere.popup/62.0.1474.864@62.0.1474.864" timestamp="1585686370383" />
+  </component>
+</project>
